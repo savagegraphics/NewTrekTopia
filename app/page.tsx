@@ -30,7 +30,7 @@ export default function Home() {
         <div className="relative z-10 container mx-auto px-4 py-24 sm:py-32 md:py-40">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
-              Discover Extraordinary Destinations
+              Discover Extraordinary Destinations.
             </h1>
             <p className="text-xl text-white/90 mb-8">
               Embark on unforgettable journeys to breathtaking landscapes, vibrant cultures, and hidden gems around the
